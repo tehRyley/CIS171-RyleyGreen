@@ -22,7 +22,6 @@ Secondly a placeholder for the compareTo method executed a similar task
 
 Last the placeholder was further developed into the compareTo method and tested for each common result.
 
-## Do not change content below this line
 ## Adapted from a README Built With
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
