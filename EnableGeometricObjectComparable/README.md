@@ -1,47 +1,26 @@
-# Project Title
+# EnableGeometricObjectComparable
 
-One Paragraph of project description goes here
+Allows user to create circles and rectangles of different sizes, then compare them to each other to determine the largest object.
 
 ## Example Output
-
-This image will display as your example output. Name the image README.jpg in your project folder.
 
 ![Sample Output](README.jpg)
 
 ## Analysis Steps
 
-This section should restate the assignment and explain how you analyzed the requirements in order 
-to develop a solution.
+Modify the GeometricObject class to include the comparable interface allowing for the comparison between object sizes.
 
 ### Design
 
-How did you approach your program design? Did you use multiple classes to define various objects?
-
-```
-Give examples
-```
+I used the included classes and methods for the creation of objects, with modification to compare sizes. An additional class was created for testing purposes.
 
 ### Testing
 
-A step by step series of examples that you developed to properly test the program. 
+Firstly I tested the interaction between the GeometricObject and Circle/Rectangle classes for object creation. 
 
-Say what the step will be
+Secondly a placeholder for the compareTo method executed a similar task
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Notes
-
-Explain any issues or testing instructions.
+Last the placeholder was further developed into the compareTo method and tested for each common result.
 
 ## Do not change content below this line
 ## Adapted from a README Built With
