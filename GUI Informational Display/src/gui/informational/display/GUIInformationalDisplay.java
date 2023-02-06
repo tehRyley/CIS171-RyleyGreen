@@ -46,10 +46,9 @@ public class GUIInformationalDisplay extends Application {
         TextField moreText = new TextField("Write your questions about weather preperation here.");
         pane.getChildren().add(moreText);
         pane.getChildren().add(btn);
-        btn.setMinSize(80, 40);
+        btn.setMinSize(100, 50);
         btn.setFont(Font.font("arial", FontWeight.BOLD, 25));
         Scene scene = new Scene(pane);
-        btn.setContentDisplay(ContentDisplay.BOTTOM);
         primaryStage.setTitle("Send");
         primaryStage.setScene(scene);
         primaryStage.show();
