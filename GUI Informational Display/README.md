@@ -1,49 +1,32 @@
-# Practice with Assignment Submission and ReadMe
+# GUI Informational Display
 
-One Paragraph of project description goes here
+A informational display about an incoming ice storm
 
 ## Example Output
-
-This image will display as your example output. Name the image README.jpg in your project folder.
 
 ![Sample Output](README.jpg)
 
 ## Analysis Steps
 
-This section should restate the assignment and explain how you analyzed the requirements in order 
-to develop a solution.
+Use the JavaFX API Libraries. Create a display that informs. The display must include (at least):
+
+An image
+A text heading
+A button
+A textbox
 
 ### Design
 
-How did you approach your program design? Did you use multiple classes to define various objects?
-
-```
-Give examples
-```
+I used multiple classes to create and adjust the needed nodes.
 
 ### Testing
 
-A step by step series of examples that you developed to properly test the program. 
+I had to do multiple tests with adding images (Could'nt add image with source other than URL, might see why next time I see the project creation screen on NetBeans.)
 
-Say what the step will be
+Adding each node then testing for visibility each time.
 
-```
-Give the example
-```
+Fix any issue with nodes and run last time.
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Notes
-
-Explain any issues or testing instructions.
-
-## Do not change content below this line
 ## Adapted from a README Built With
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
