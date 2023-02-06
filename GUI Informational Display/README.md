@@ -10,9 +10,10 @@ A informational display about an incoming ice storm
 
 Use the JavaFX API Libraries. Create a display that informs. The display must include (at least):
 
-An image
-A text heading
-A button
+An image,
+A text heading,
+A button,
+and
 A textbox
 
 ### Design
