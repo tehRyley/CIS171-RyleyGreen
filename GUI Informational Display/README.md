@@ -22,7 +22,7 @@ I used multiple classes to create and adjust the needed nodes.
 
 ### Testing
 
-I had to do multiple tests with adding images (Could'nt add image with source other than URL, might see why next time I see the project creation screen on NetBeans.)
+I had to do multiple tests with adding images (Couldn't add image with source other than URL, might see why next time I see the project creation screen on NetBeans.)
 
 Adding each node then testing for visibility each time.
 
