@@ -17,7 +17,7 @@ I used an arc for the base, lines within paths for the hang and body/arms, and f
 ### Testing
 
 With each shape added the program was tested for visibility in the scene.
-After each shape was added it was then tested mutliple times while altering the coordinate and other values.
+After each shape was added it was then tested mutliple times while altering the coordinates and other values.
 once everything was in place the program was ran once more to test the final shape placements.
 
 ## Adapted from a README Built With
