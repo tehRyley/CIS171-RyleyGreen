@@ -1,4 +1,4 @@
-# GUI Informational Display
+# Exercise 15.29 Racing Car
 
 A car moving across the screen with speed controls
 
