@@ -4,7 +4,7 @@ A informational display about an incoming ice storm
 
 ## Example Output
 
-![Sample Output](README.gif)
+![Sample Output](README.jpg)
 
 ## Analysis Steps
 
