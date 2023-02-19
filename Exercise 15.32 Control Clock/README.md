@@ -1,6 +1,6 @@
-# GUI Informational Display
+# Exercise 15.32 Control Clock
 
-A informational display about an incoming ice storm
+A working clock with a stop and start button
 
 ## Example Output
 
@@ -8,25 +8,24 @@ A informational display about an incoming ice storm
 
 ## Analysis Steps
 
-Use the JavaFX API Libraries. Create a display that informs. The display must include (at least):
-
-An image,
-A text heading,
-A button,
-and
-A textbox
+Modify the given ClockPane class to add animation to have a working clock. Add stop and start methods to stop and start the clock with two buttons.
 
 ### Design
 
-I used multiple classes to create and adjust the needed nodes.
+I used the given class to create the initial clock then modified it to have animation using Timeline(). Three additional methods were added to the ClockPane class, progress() which helped the animation,
+stop() which stopped the animation, and start() that started the animation.
 
 ### Testing
 
-I had to do multiple tests with adding images (Couldn't add image with source other than URL, might see why next time I see the project creation screen on NetBeans.)
+The first test was to get the original clock painted correctly in a scene.
 
-Adding each node then testing for visibility each time.
+Once the clock was correct, I added buttons and adjusted the placement.
 
-Fix any issue with nodes and run last time.
+The clock animation using Timeline was next which worked well
+
+then the Stop/Start methods for the buttons which had one issue with the placement of the initial Timeline
+
+after changing the placement of the Timeline both the buttons and animation functioned correctly.
 
 ## Adapted from a README Built With
 
