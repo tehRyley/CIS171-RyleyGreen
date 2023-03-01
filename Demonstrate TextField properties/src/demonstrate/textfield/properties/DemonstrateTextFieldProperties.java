@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Ryley Green
+ * @author Ryley Ireland Green
  */
 public class DemonstrateTextFieldProperties extends Application {
     
