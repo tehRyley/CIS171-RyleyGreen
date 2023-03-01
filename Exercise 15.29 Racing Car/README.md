@@ -14,13 +14,14 @@ Experiment with JavaFX - add a skin
 
 ### Design
 
-I used a stylesheet to add a background then used two more images, one for the car and another for the sun.
+I used a stylesheet to add a background then used two more images, one for the car and another for the sun. The "SPACE" key is for stopping and starting the car, and the "UP" and "DOWN" arrow keys are used to control the speed of the car.
 
 ### Testing
 
-I tested each node multiple times while adusting their coordinates
-once the still image was in place I tested the animation for motion to the other side of the scene
+First adding the stylesheet and testing for acceptance of the background image.
+then adding the car to the road and adding animation to the other side of the scene for the car.
 after the animation was correct I added and tested the required pause/play and speed controls
+finally the final touch was adding a sun image to the corner.
 
 ## Adapted from a README Built With
 
