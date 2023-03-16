@@ -23,7 +23,7 @@ Then some small tweaks like textfield size and button placement to match a bit m
 
 A test was done by just taking the input from USD and setting it as the CAD with no conversion.
 
-After the initial test worked I made a conversion and sent the converted amount instead.
+After the text transfer test worked I made a conversion and sent the converted amount instead.
 
 I then rounded the output to more resemble the currecny.
 
