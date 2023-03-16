@@ -27,7 +27,7 @@ After the text transfer test worked I made a conversion and sent the converted a
 
 I then rounded the output to more resemble the currecny.
 
-The last test was inputting a few currency amounts and comparing to the google converion output to test accuracy.
+The last test was inputting a few currency amounts and comparing to the google conversion output to test accuracy.
 
 ## Adapted from a README Built With
 
