@@ -21,7 +21,7 @@ The first test was done for positioning after placing the nodes into the grid pa
 
 Then some small tweaks like textfield size and button placement to match a bit more with the example got tested.
 
-An initial test was done by just taking the input from USD and setting it as the CAD with no conversion.
+A test was done by just taking the input from USD and setting it as the CAD with no conversion.
 
 After the initial test worked I made a conversion and sent the converted amount instead.
 
