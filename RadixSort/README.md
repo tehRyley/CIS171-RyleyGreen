@@ -1,6 +1,6 @@
 # Exercise 23.12 Radix Sort
 
-Using radix sorting on 1,000,000 random integers
+Write a program that randomly generates 1,000,000 integers and sorts them using radix sort.
 
 ## Example Output
 
@@ -8,7 +8,7 @@ Using radix sorting on 1,000,000 random integers
 
 ## Analysis Steps
 
-Write a program that randomly generates 1,000,000 integers and sorts them using radix sort.
+Using radix sorting on 1,000,000 random integers
 
 ### Design
 
