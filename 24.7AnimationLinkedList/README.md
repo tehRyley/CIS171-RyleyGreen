@@ -1,6 +1,6 @@
 # Exercise 24.7 Animation: linked list
 
-A working GUI for searching, inserting, and deleting values in a list; additional functionality through the abiulity to insert at specific index.
+A working GUI for searching, inserting, and deleting values in a list; additional functionality through the ability to insert at specific index.
 
 ## Example Output
 
