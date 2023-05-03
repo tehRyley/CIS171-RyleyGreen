@@ -1,0 +1,68 @@
+.radio-button:selected .radio .dot {
+    -fx-background-color: green;
+    -fx-background-insets: 0;
+}
+
+.radio-button:selected .radio {
+    -fx-highlight-fill: green;
+    -fx-border-color: yellow;
+    -fx-background-color: lightyellow;
+    -fx-border-radius: 50px;
+}
+
+.radio-button .radio {
+    -fx-highlight-fill: green;
+    -fx-border-color: yellow;
+    -fx-background-color: lightyellow;
+    -fx-border-radius: 50px;
+}
+
+.combo-box {
+    -fx-border-color: green;
+    -fx-background-color: lightyellow;
+    -fx-border-radius: 50px;
+    -fx-background-radius: 50px;
+    -fx-padding: 0px;
+}
+
+.combo-box:hover {
+    -fx-background-color: yellow;
+}
+
+.combo-box-popup .list-view .list-cell:hover{
+    -fx-background-color: green;
+}
+
+.combo-box-popup .list-view .list-cell{
+    -fx-background-color: lightyellow;
+}
+
+.combo-box .list-view .list-cell:selected {
+    -fx-background-color: green;
+}
+
+.button {
+    -fx-border-color: green;
+    -fx-background-color: lightyellow;
+    -fx-border-radius: 50px;
+    -fx-background-radius: 50px;
+    -fx-padding: 0px;
+}
+
+
+.button:hover {
+    -fx-background-color: yellow;
+    -fx-border-color: green;
+    -fx-border-radius: 50px;
+    -fx-background-radius: 50px;
+    -fx-padding: 0px;
+}
+
+.check-box .box {
+-fx-border-color: yellow;
+-fx-background-color: lightyellow;
+}
+
+.check-box:selected .mark {
+-fx-background-color: green;
+}
