@@ -1,6 +1,6 @@
 # Exercise 24.7 Animation: linked list
 
-A working GUI for searching, inserting, and deleting values in a list; additional functionality through the abiulity to insert at specific index.
+A working GUI for searching, inserting, and deleting values in a list; additional functionality through the ability to insert at specific index.
 
 ## Example Output
 
@@ -18,7 +18,7 @@ I used a vbox for general layout two labels near the top and hbox to hold a row 
 
 The first test was to place the tools within the hbox and place them at the bottom center.
 
-The next test had the tools placed into a vbox and the labels place above the tools, alos centered.
+The next test had the tools placed into a vbox and the labels place above the tools, also centered.
 
 Another test was done to display the list on the gui.
 
