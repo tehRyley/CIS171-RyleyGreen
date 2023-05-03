@@ -11,12 +11,12 @@ Automated ordering system for subway, using a GUI to interact with a user to bui
 ## Analysis Steps
 
 Build a GUI that incorporates a user choosing
-Size of sandwich
-Type of bread
-Type of meat
-Type of cheese
-Up to three veggies
-Type of Sauce
+Size of sandwich,
+Type of bread,
+Type of meat,
+Type of cheese,
+Up to three veggies,
+Type of Sauce, and
 Salt & Pepper (Y/N)
 
 ### Design
