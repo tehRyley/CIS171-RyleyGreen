@@ -20,8 +20,10 @@ import javafx.stage.Stage;
 
 /**
  *
- * Project: Final Project BlackJack Description: A game of BlackJack versus a
- * computer. Date: 5/12/2023 Author: Ryley Ireland Green
+ * Project: Final Project BlackJack 
+ * Description: A game of BlackJack versus a computer. 
+ * Date: 5/12/2023 
+ * Author: Ryley Ireland Green
  *
  */
 public class FinalProjectBlackJack extends Application {
