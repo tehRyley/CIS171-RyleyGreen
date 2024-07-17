@@ -1,4 +1,4 @@
-# Notables
+# Notable Projects
 -https://github.com/tehRyley/CIS171-RyleyGreen/tree/ae6362fad468c2c4b8df5d1ec10b8ab17d9a6c15/Final%20Project%20BlackJack
 
 -https://github.com/tehRyley/CIS171-RyleyGreen/tree/ae6362fad468c2c4b8df5d1ec10b8ab17d9a6c15/SubwayOrderSystem
